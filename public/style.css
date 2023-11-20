@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+#itemForm {
+    margin-bottom: 20px;
+}
+
+#itemName {
+    margin-right: 10px;
+}
