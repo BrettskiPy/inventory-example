@@ -1,5 +1,4 @@
 # inventory-example
-An example JavaScript CRUD application
 
 This is an example Inventory CRUD (Create, Read, Update, Delete) application built with Node.js and Express. It allows you to manage an inventory of items by performing various operations. This application also includes a Jest API test script.
 
